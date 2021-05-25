@@ -1,0 +1,62 @@
+[
+    {
+      "id":1,
+      "Question":"The Hardest Logic Puzzle Ever?If a giraffe has two eyes, a monkey has two eyes, and an elephant has two eyes, how many eyes do we have?",
+       "option1":"2",
+       "option2":"1",
+       "option3":"4",
+       "option4":"6",
+       "Ans":"4",
+       "Explanation":"4 eyes.Here in the question, it is asked how many Eyes We have so that means here the person who has asked the question is also including the person who is suppose to give the answer. In a clear understanding, the Conversation is happening between 2 people 1st who asked the question and 2nd to whom it has been asked, which means there are 4 eyes."
+    },
+    {
+      "id":2,
+      "Question":"One rabbit saw 6 elephants while going towards River. Every elephant saw 2 monkeys are going towards river. Every monkey holds one tortoice in their hands.How many animals are going towards the river?",
+       "option1":"14",
+       "option2":"11",
+       "option3":"8",
+       "option4":"5",
+       "Ans":"5",
+       "Explanation":"From the given data,1 rabbit is going towards river not the six eephants. And these 6 elephants saw 2 monkeys are going towards river. Each monkey is holding 1 tortoice.Hence, number of animals going towards river are 1 rabbit, 2 monkeys and 2 tortoic= 1 + 2 + 2= 5."
+    },
+    {
+      "id":3,
+      "Question":"Rhythm of eyes' city name in India?",
+       "option1":"Chennai",
+       "option2":"Nainital",
+       "option3":"Srinagar",
+       "option4":"Karnataka",
+       "Ans":"Nainital",
+       "Explanation":"'Rhythm of eyes' logically means Nainital in India. The other cities are: No Zip - Chennai. Mr. City - Srinagar. Do Acting - Karnataka."
+    },
+    {
+      "id":4,
+      "Question":"A man was murdered in his office.The suspects are Ericson, Maggi, Joel, Benny, Sona, Patick.A calendar found near the man has blood written 6, 4, 9, 10, 11.",
+       "option1":"Maggi",
+       "option2":"Ericson",
+       "option3":"Joel",
+       "option4":"Sona",
+       "Ans":"Joel",
+       "Explanation":"If we consider the given numbers  6, 4, 9, 10, 11 to be the month number then we can easily find the killer.6 – June – J , 4 – April – A , 9 – September – S , 10 – October – O , 11 – November – N . Hence the answer is JOEL."
+    },
+    {
+      "id":5,
+      "Question":"They come out at night without being called and are lost in the day without being stolen. What are they?",
+       "option1":"Light",
+       "option2":"Bats",
+       "option3":"Stars",
+       "option4":"Flights",
+       "Ans":"Stars",
+       "Explanation":"Stars are what that come out at night without being called and are lost in the day without being stolen."
+    },
+    {
+      "id":6,
+      "Question":"What is black when you buy it, red when you use it, and gray when you throw it away?",
+       "option1":"Shoe",
+       "option2":"Charcoal",
+       "option3":"Belt",
+       "option4":"All the Above",
+       "Ans":"Charcoal",
+       "Explanation":"It is Charcoal which is black when we buy it or when not being used. It gets red in appearance when put in use means to say when burning. And eventually when it's been consumed by fire or after getting burned out or used up, changes into ashes which look grey in color."
+    }
+  ]

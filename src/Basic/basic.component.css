@@ -1,0 +1,53 @@
+
+.header a{
+    color:whitesmoke;
+}
+h1{
+    color:rgb(73, 17, 36);
+}
+.header a:hover{
+    color:blanchedalmond;
+}
+
+.col-md-6{
+    background-color:lavender;
+}
+#foot a{
+    color: black;
+}
+h6
+{
+    color:white;
+    font-family: cursive;
+}
+h2{
+    color:lightslategrey;
+    font-family: cursive;
+}
+#head a
+{
+    
+    background-color: lightslategrey;
+    color:white;
+    border:5px solid lightslategrey;
+    border-radius:20px;
+    text-decoration: none;
+   
+    
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.footer a{
+    color:black;
+    float:right;
+} 
+#head a:hover{
+    color:black;
+}
+h4{
+    font-family: cursive;
+}
+a{
+    font-family: cursive;
+}

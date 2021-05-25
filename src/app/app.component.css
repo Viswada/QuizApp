@@ -1,0 +1,41 @@
+
+.header a{
+    color:whitesmoke;
+}
+.header a:hover{
+    color: black;
+}
+
+.col-md-6{
+    background-color:lavender;
+}
+#foot a{
+    color: black;
+}
+h6
+{
+    color:white;
+    font-family: cursive;
+}
+h2{
+    color:lightslategrey;
+    font-family: cursive;
+}
+.na a
+{
+    background-color: lightslategrey;
+    color:white;
+    border:5px solid lightslategrey;
+    border-radius:20px;
+    text-decoration: none;
+    
+}
+.na a:hover{
+    color:black;
+}
+h4{
+    font-family: cursive;
+}
+a{
+    font-family: cursive;
+}

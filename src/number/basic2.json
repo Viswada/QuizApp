@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "Question":"If  1 1 1 1 = R ....2 2 2 2 = T....3 3 3 3 = E....4 4 4 4 = N...Then  5 5 5 5 = ?",
+        "option1":"Y",
+        "option2":"Z",
+        "option3":"T",
+        "option4":"X",
+        "Ans":"Y",
+        "Explanation":"If you add all the terms of the LHS of equality, then the last letter of the sum written in words would give you the RHS.1 + 1 + 1 + 1 = 4 = FOUR .. 2 + 2 + 2 + 2 = 8 = EIGHT .. 3 + 3 + 3 + 3 = 12 = TWELVE .. 4 + 4 + 4 + 4 = 16 = SIXTEEN.So, following the same pattern.5 + 5 + 5 + 5 = 20 = TWENTY.That gives us our answer to 5 5 5 5 =  Y."
+    },
+    {
+        "id":2,
+        "Question":"111 13 112 24 113 35 117 ?",
+        "option1":"46",
+        "option2":"57",
+        "option3":"68",
+        "option4":"79",
+        "Ans":"79",
+        "Explanation":"The given puzzle follows a pattern that,Number - <last digit> <sum of all digits>.111 - 13 , 112 - 24 , 113 - 35 .. So 117 - 79"
+    },
+    {
+        "id":3,
+        "Question":"Guess the next number..3,12,39,120,?",
+        "option1":"330",
+        "option2":"253",
+        "option3":"221",
+        "option4":"363",
+        "Ans":"363",
+        "Explanation":"The given numbers in the series follows a pattern that,3 .. (3 x 3) + 3 = 12 .. (12 x 3) + 3 = 39 .. (39 x 3) + 3 = 120 .. (120 x 3) + 3 = 363."
+    },
+    {
+        "id":4,
+        "Question":"If 1+1=121 .. 1+2=134 .. 2+2=444 .. 3+2=954 .. Then 3+3=???",
+        "option1":"963",
+        "option2":"696",
+        "option3":"969",
+        "option4":"966",
+        "Ans":"969",
+        "Explanation":"Explanation:1 + 1 = 121 = 1x1 1+1 1x1 .. 1 + 2 = 134 = 1x1 1+2 2x2  .. 2 + 2 = 444 = 2x2 2+2 2x2 .. 3 + 2 = 954 = 3x3 3+2 2x2 .. 3 + 3 = ? .. Similarly, 3x3 3+3 3x3 = 969"
+    },
+    {
+        "id":5,
+        "Question":"If 6=3,12=6,14=8.What is the number corresponds to 22?",
+        "option1":"8",
+        "option2":"16",
+        "option3":"9",
+        "option4":"12",
+        "Ans":"9",
+        "Explanation":"Given 6 = 3 => Number of letters in SIX = 3,12 = 6 => Number of letters in TWELVE = 6,14 = 8 => Number of letters in FOURTEEN = 8.Similarly,22 = 9 => Number of letters in TWENTY TWO = 9 . Therefore, 22 = 9."
+    }
+]

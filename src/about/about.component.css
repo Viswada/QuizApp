@@ -1,0 +1,18 @@
+.head{
+  background-color: black;
+  padding:40px;
+}
+h1{
+  color: white ;
+  font-family: Brush Script MT;
+}
+h4{
+  color: white ;
+  font-family:cursive;
+}
+h4 pre{
+  color: white ;
+  font-family:cursive;
+}
+
+
